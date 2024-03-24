@@ -9,7 +9,6 @@ npm run serve
 
 # Instalação das dependências do back-end Python
 cd backend
-pip install -r requirements.txt
 python app.py
 
 
